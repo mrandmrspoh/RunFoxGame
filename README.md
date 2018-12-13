@@ -16,9 +16,11 @@ Press ENTER to start playing, or F5 to replay this game
 
 # Skills used to complete this game
 Javascript: 
-- Loops, Functions, set/clear Timeout and Intervals
-- Event listeners, DOM manipulation
+Loops, Functions, set/clear Timeout and Intervals
+Event listeners, DOM manipulation
+
 HTML
-- Audio tags
+Audio tags
+
 CSS
-- Sprite animation, z-index
+Sprite animation, z-index
