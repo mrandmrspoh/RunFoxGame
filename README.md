@@ -19,8 +19,8 @@ Javascript:
 Loops, Functions, set/clear Timeout and Intervals
 Event listeners, DOM manipulation
 
-HTML
+HTML: 
 Audio tags
 
-CSS
+CSS: 
 Sprite animation, z-index
