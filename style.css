@@ -106,13 +106,13 @@ h4, p {
 
 @-webkit-keyframes fox {
   0% {
-    background-image: url("Run_1t.png");
+    background-image: url("ImagesAndSounds/Run_1t.png");
   }
   50% {
-    background-image: url("Run_2t.png");
+    background-image: url("ImagesAndSounds/Run_2t.png");
   }
   100% {
-    background-image: url("Run_3t.png");
+    background-image: url("ImagesAndSounds/Run_3t.png");
   }
 }
 

@@ -38,7 +38,7 @@ var keyboardKeys = function(event) {
         case 13: //start
         initateGameStart();
         myAudio1 = document.createElement("audio");
-        myAudio1.src = "melodyloops-preview-jolly-fun-2m30s.mp3";
+        myAudio1.src = "ImagesAndSounds/melodyloops-preview-jolly-fun-2m30s.mp3";
         myAudio1.play();
         break;
         case 37: //left arrow`
@@ -50,7 +50,7 @@ var keyboardKeys = function(event) {
         case 38://uparrow
         charJump(charHeight);
         myAudio2 = document.createElement("audio");
-        myAudio2.src = "Funny-cartoon-jump-sound-effect.mp3";
+        myAudio2.src = "ImagesAndSounds/Funny-cartoon-jump-sound-effect.mp3";
         myAudio2.play();
         break;
     }
